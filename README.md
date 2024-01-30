@@ -20,6 +20,7 @@ I'm Justin, an undergraduate Mathematics-Computer Science student at UC San Dieg
 - a lead instructor at Code Ninjas, teaching children the fundamentals of computer science.
 
 </br>
+
 ---
 
 </details>
