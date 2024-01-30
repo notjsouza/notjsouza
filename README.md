@@ -13,19 +13,17 @@ I'm Justin, an undergraduate Mathematics-Computer Science student at UC San Dieg
 <summary>📝 Experience</summary>
 <br> 
 
-  <p>
-  <!-- Currently I am an [Role Title] in [Company] for [Details about role].--> 
-  My coursework this quarter consists of Probability, Graph Theory, and Linguistics. </p>
+<!-- Currently I am an [Role Title] in [Company] for [Details about role].--> 
+My coursework this quarter consists of Probability, Graph Theory, and Linguistics.
 
-  <p> In the past, I've worked as: </br>
-    - a lead instructor at Code Ninjas, teaching children the fundamentals of computer science.
+In the past, I've worked as: </br>
+- a lead instructor at Code Ninjas, teaching children the fundamentals of computer science.
 
-  </br>
+</br>
 
-  ---
+---
 
 </details>
-
 
 <details>
 <summary>📧 Other ways to Get in Touch</summary>
