@@ -19,8 +19,6 @@ My coursework this quarter consists of Probability, Graph Theory, and Linguistic
 In the past, I've worked as: <br>
 - a lead instructor at Code Ninjas, teaching children the fundamentals of computer science.
 
-</br>
-
 ---
 
 </details>
