@@ -29,11 +29,12 @@ In the past, I've worked as: <br>
 <summary>📧 Other ways to Get in Touch</summary>
 <br> 
 
-Please feel free to contact me.
+Please feel free to contact me. <br>
 - **Email:** (Preferred)
   - My personal email is 'notjsouza@gmail.com`.
   - My academic email is 'j1souza@ucsd.edu'.
 - **LinkedIn:** Click [here](http://linkedin.com/in/notjustinsouza/) to connect and message me)
+  
 ---
   
 </details>
