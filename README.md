@@ -84,15 +84,18 @@ Please feel free to contact me.
   
  
 ## Places I've Studied:
+
 * Diablo Valley College
 * University of California, San Diego
 
 ## I have experience in:
+
 * Git & Bash Commands
 * Front End
 * Basic Machine Learning
 
 ## Relevant Coursework:
+
 * Software Development Tools and Techniques, Advanced Programming with C/C++, Object-Oriented Programming in C++, Program Design & Data Structures
 
 ## Projects:
