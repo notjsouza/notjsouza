@@ -76,7 +76,7 @@ Please feel free to contact me. <br>
 </tr>
 
 <details>
-<summary>More Information.</summary>
+<summary>More Information</summary>
 <br> 
   
  
