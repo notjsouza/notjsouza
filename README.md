@@ -72,7 +72,7 @@ Please feel free to contact me. <br>
 </p>
 
 <tr>
-  <td><img src="https://streak-stats.demolab.com?user=notjsouza&ring=DD6304&theme=github-dark-dimmed" width="420"/> </td>
+  <td><img src="https://streak-stats.demolab.com?user=notjsouza&ring=DD6304&theme=github-dark-dimmed&hide_border=true" width="420"/> </td>
 </tr>
 
 <details>
