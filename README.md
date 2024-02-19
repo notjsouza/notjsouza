@@ -91,6 +91,10 @@ Please feel free to contact me. <br>
 * Front End
 * Basic Machine Learning
 
+## Current Certifications:
+
+* AWS Certified Cloud Practitioner
+
 ## Relevant Coursework:
 
 * Software Development Tools and Techniques, Advanced Programming with C/C++, Object-Oriented Programming in C++, Program Design & Data Structures
