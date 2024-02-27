@@ -41,7 +41,7 @@ Please feel free to contact me. <br>
 <summary>My Interests</summary>
 <br> 
   
-* Rock Climbing & Bouldering
+* Rock Climbing
 * Volleyball
 * Video games
 * Hiking & Camping
