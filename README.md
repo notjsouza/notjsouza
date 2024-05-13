@@ -1,5 +1,5 @@
 # 👋 Hey! 
-I'm Justin, an undergraduate Mathematics-Computer Science student at UC San Diego specializing in ML & AI, interested in Software Engineering and Cloud Computing.
+I'm Justin, an undergraduate Mathematics-Computer Science student at UC San Diego specializing in Software Engineering and Cloud Computing, interested in ML & AI.
 
 <p align="left">
 <a href="mailto:j1souza@ucsd.edu"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
