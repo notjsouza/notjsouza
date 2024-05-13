@@ -14,7 +14,7 @@ I'm Justin, an undergraduate Mathematics-Computer Science student at UC San Dieg
 <br> 
 
 <!-- Currently I am an [Role Title] in [Company] for [Details about role].--> 
-My coursework this quarter consists of Probability, Graph Theory, and Linguistics.
+My coursework this quarter consists of Advanced Data Structures, Differential Equations, and Applied Linear Algebra.
 
 In the past, I've worked as: <br>
 - a Lead Instructor at Code Ninjas, teaching children the fundamentals of computer science.
@@ -88,7 +88,7 @@ Please feel free to contact me. <br>
 ## I have experience in:
 
 * Git & Bash Commands
-* Front End
+* Front End, AWS Powered Back End
 * Basic Machine Learning
 
 ## Current Certifications:
@@ -97,9 +97,10 @@ Please feel free to contact me. <br>
 
 ## Relevant Coursework:
 
-* Software Development Tools and Techniques, Advanced Programming with C/C++, Object-Oriented Programming in C++, Program Design & Data Structures
+* Software Development Tools and Techniques, Advanced Data Structures, Advanced Programming with C/C++, Object-Oriented Programming in C++, Program Design & Data Structures
 
 ## Projects:
+* Full stack IOS app to identify and log wildlife sightings around campus. --(WIP)--
 * Front end recreation of the Spotify web app using the Spotify API for data.
 * Deep Learning program to analyze crash reports and model potential failure patterns.
 * AI powered car that can successfully navigate traffic after sufficient training.
