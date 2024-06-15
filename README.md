@@ -88,7 +88,7 @@ Please feel free to contact me. <br>
 ## I have experience in:
 
 * Git & Bash Commands
-* Front End, AWS Powered Back End
+* Front End using React and Vue, AWS Powered Back End
 * Basic Machine Learning
 
 ## Current Certifications:
