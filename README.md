@@ -14,7 +14,7 @@ I'm Justin, an undergraduate Mathematics-Computer Science student at UC San Dieg
 <br> 
 
 <!-- Currently I am an [Role Title] in [Company] for [Details about role].--> 
-My coursework this quarter consists of Modern Algebra and Differential Equations.
+My coursework this quarter consists of Modern Algebra.
 
 In the past, I've worked as: <br>
 - a Lead Instructor at Code Ninjas, teaching children the fundamentals of computer science.
