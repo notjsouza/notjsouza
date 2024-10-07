@@ -14,10 +14,11 @@ I'm Justin, an undergraduate Mathematics-Computer Science student at UC San Dieg
 <br> 
 
 <!-- Currently I am an [Role Title] in [Company] for [Details about role].--> 
-Currently, I am an Undergraduate Research Assistant with the Design Lab within UC San Diego's Cognitive Science Department.
-My coursework this quarter consists of Modern Algebra II and Differential Equations.
+<!-- Currently, I am -->
+My coursework this quarter consists of Analysis and Design of Algorithms, Software Engineering, Differential Equations, and Modern Cryptography.
 
 In the past, I've worked as: <br>
+- an Undergraduate Research Assistant with the Design Lab within UC San Diego's Cognitive Science Department.
 - a Lead Instructor at Code Ninjas, teaching children the fundamentals of computer science.
 
 ---
