@@ -18,7 +18,7 @@ I'm Justin, an undergraduate Mathematics-Computer Science student at UC San Dieg
 My coursework this quarter consists of Design and Analysis of Algorithms, Software Engineering, and Differential Equations.
 
 In the past, I've worked as: <br>
-- an Undergraduate Research Assistant with the Design Lab within UC San Diego's Cognitive Science Department.
+- a Research Assistant with the Design Lab within UC San Diego's Cognitive Science Department.
 - a Lead Instructor at Code Ninjas, teaching children the fundamentals of computer science.
 
 ---
