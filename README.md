@@ -94,7 +94,7 @@ Please feel free to contact me. <br>
 
 * Git & Bash Commands
 * Front End using React and Vue, AWS Powered Back End
-* Basic Machine Learning
+* Basic AI and Machine Learning
 
 ## Current Certifications:
 
@@ -102,10 +102,10 @@ Please feel free to contact me. <br>
 
 ## Relevant Coursework:
 
-* Software Development Tools and Techniques, Advanced Data Structures, Advanced Programming with C/C++, Object-Oriented Programming in C++, Program Design & Data Structures
+* Software Development Tools and Techniques, Advanced Data Structures, Advanced Programming with C/C++, Object-Oriented Programming in C++, Program Design & Data Structures, Design and Analysis of Algorithms, Software Engineering
 
 ## Projects:
 * Full stack IOS app to identify and log wildlife sightings around campus. --(WIP)--
 * Front end recreation of the Spotify web app using the Spotify API for data.
-* Deep Learning program to analyze crash reports and model potential failure patterns.
 * AI powered car that can successfully navigate traffic after sufficient training.
+* Deep Learning program to analyze crash reports and model potential failure patterns.
