@@ -14,8 +14,8 @@ I'm Justin, an undergraduate Mathematics-Computer Science student at UC San Dieg
 <br> 
 
 <!-- Currently I am an [Role Title] in [Company] for [Details about role].--> 
-<!-- Currently, I am -->
-My coursework this quarter consists of Operating Systems, Theory of Computation, Linear Programming, and Abstract Algebra.
+Currently, I am collaborating with the U.S. Department of Defense as a Systems Engineer Intern.
+My coursework this quarter consists of Networked Services, Large Codebases, and Numerical Analysis: Linear Algebra.
 
 In the past, I've worked as: <br>
 - a Research Assistant with the Design Lab within UC San Diego's Cognitive Science Department.
@@ -102,7 +102,7 @@ Please feel free to contact me. <br>
 
 ## Relevant Coursework:
 
-* Software Development Tools and Techniques, Advanced Data Structures, Advanced Programming with C/C++, Object-Oriented Programming in C++, Program Design & Data Structures, Design and Analysis of Algorithms, Software Engineering
+* Software Development Tools and Techniques, Advanced Data Structures, Advanced Programming with C/C++, Object-Oriented Programming in C++, Program Design & Data Structures, Design and Analysis of Algorithms, Software Engineering, Operating Systems, Theory of Computation, Linear Programming
 
 ## Projects:
 * Full stack IOS app to identify and log wildlife sightings around campus. --(WIP)--
