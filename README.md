@@ -14,11 +14,11 @@ I'm Justin, an undergraduate Mathematics-Computer Science student at UC San Dieg
 <br> 
 
 <!-- Currently I am an [Role Title] in [Company] for [Details about role].--> 
-Currently, I am collaborating with the U.S. Department of Defense as a Systems Engineer Intern.
+Currently, I am collaborating with the U.S. Department of Defense as a Solutions Engineer Intern.
 My coursework this quarter consists of Networked Services, Large Codebases, and Numerical Analysis: Linear Algebra.
 
 In the past, I've worked as: <br>
-- a Research Assistant with the Design Lab within UC San Diego's Cognitive Science Department.
+- an Undergraduate Researcher with the Design Lab within UC San Diego's Cognitive Science Department.
 - a Lead Instructor at Code Ninjas, teaching children the fundamentals of computer science.
 
 ---
