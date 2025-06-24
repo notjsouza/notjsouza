@@ -92,8 +92,8 @@ Please feel free to contact me. <br>
 
 ## I have experience in:
 
-* Front End using React.js, Next.js, and Vue.js
-* Back End through Amazon Web Services(AWS) and Google Cloud Platform(GCP)
+* Frontend using React.js, Next.js, and Vue.js
+* Backend with Amazon Web Services (AWS) and Google Cloud Platform (GCP)
 * Basic AI and Machine Learning
 
 ## Current Certifications:
