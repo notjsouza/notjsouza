@@ -92,8 +92,8 @@ Please feel free to contact me. <br>
 
 ## I have experience in:
 
-* Git & Bash Commands
-* Front End using React and Vue, AWS Powered Back End
+* Front End using React.js, Next.js, and Vue.js
+* Back End through Amazon Web Services(AWS) and Google Cloud Platform(GCP)
 * Basic AI and Machine Learning
 
 ## Current Certifications:
