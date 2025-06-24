@@ -1,5 +1,5 @@
 # 👋 Hey! 
-I'm Justin, an undergraduate Mathematics-Computer Science student at UC San Diego specializing in Cloud-Native Development.
+I'm Justin, a UC San Diego alumnus with a B.S. in Mathematics-Computer Science.
 
 <p align="left">
 <a href="mailto:j1souza@ucsd.edu"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
@@ -14,11 +14,11 @@ I'm Justin, an undergraduate Mathematics-Computer Science student at UC San Dieg
 <br> 
 
 <!-- Currently I am an [Role Title] in [Company] for [Details about role].--> 
-Currently, I am collaborating with the U.S. Department of Defense as a Solutions Engineer Intern.
-My coursework this quarter consists of Networked Services, Large Codebases, and Numerical Analysis: Linear Algebra.
+Currently, I am a Software Engineer at a Stealth Startup, working with TypeScript, Node.js, Next.js, Google Cloud Platform, Docker, and Terraform.
 
-In the past, I've worked as: <br>
-- an Undergraduate Researcher with the Design Lab within UC San Diego's Cognitive Science Department.
+In the past, I've worked as: <be>
+- a Systems Engineer Intern within the U.S. Department of Defense
+- an Undergraduate Researcher at the Design Lab, within UC San Diego's Cognitive Science Department.
 - a Lead Instructor at Code Ninjas, teaching children the fundamentals of computer science.
 
 ---
