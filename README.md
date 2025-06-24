@@ -100,12 +100,11 @@ Please feel free to contact me. <br>
 
 * AWS Certified Cloud Practitioner
 
-## Relevant Coursework:
+## Undergraduate Coursework:
 
-* Software Development Tools and Techniques, Advanced Data Structures, Advanced Programming with C/C++, Object-Oriented Programming in C++, Program Design & Data Structures, Design and Analysis of Algorithms, Software Engineering, Operating Systems, Theory of Computation, Linear Programming
+* Software Development Tools and Techniques, Advanced Data Structures, Advanced Programming with C/C++, Object-Oriented Programming in C++, Program Design & Data Structures, Design and Analysis of Algorithms, Software Engineering, Operating Systems, Theory of Computation, Networked Services, Working with Large Codebases
 
 ## Projects:
 * Full stack IOS app to identify and log wildlife sightings around campus. --(WIP)--
-* Front end recreation of the Spotify web app using the Spotify API for data.
 * AI powered car that can successfully navigate traffic after sufficient training.
 * Deep Learning program to analyze crash reports and model potential failure patterns.
