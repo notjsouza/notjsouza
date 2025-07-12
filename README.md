@@ -14,7 +14,7 @@ I'm Justin, a UC San Diego alumnus with a B.S. in Mathematics-Computer Science.
 <br> 
 
 <!-- Currently I am an [Role Title] in [Company] for [Details about role].--> 
-Currently, I am a Software Engineer at a Stealth Startup, working with TypeScript, Node.js, Next.js, Google Cloud Platform, Docker, and Terraform.
+Currently, I am a Software Engineer at Projectmaven, working with Python, TypeScript, Node.js, Next.js, Google Cloud Platform, and Docker.
 
 In the past, I've worked as: <be>
 - a Systems Engineer Intern within the U.S. Department of Defense
