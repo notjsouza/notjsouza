@@ -18,8 +18,8 @@ Currently, I am a Software Engineer at Projectmaven, working with Python, TypeSc
 
 In the past, I've worked as: <be>
 - a Systems Engineer Intern within the U.S. Department of Defense
-- an Undergraduate Researcher at the Design Lab, within UC San Diego's Cognitive Science Department.
-- a Lead Instructor at Code Ninjas, teaching children the fundamentals of computer science.
+- an Undergraduate Researcher at the UC San Diego Design Lab
+- a Lead Instructor at Code Ninjas, teaching children the fundamentals of computer science
 
 ---
 
