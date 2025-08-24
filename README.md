@@ -19,7 +19,7 @@ Currently, I am a Software Engineer at Projectmaven, working with TypeScript, Py
 In the past, I've worked as: <be>
 - a Systems Engineer Intern within the U.S. Department of Defense
 - an Undergraduate Researcher at the UC San Diego Design Lab
-- a Lead Instructor at Code Ninjas, teaching children the fundamentals of computer science
+- a Lead Instructor at Code Ninjas
 
 ---
 
@@ -92,14 +92,14 @@ Please feel free to contact me. <br>
  
 ## Places I've Studied:
 
-* Diablo Valley College
 * University of California, San Diego
+* Diablo Valley College
 
 ## I have experience in:
 
 * Frontend using React.js, Next.js, and Vue.js
-* Backend with Amazon Web Services (AWS) and Google Cloud Platform (GCP)
-* Basic AI and Machine Learning
+* Backend with Java, Node.js, Go, Amazon Web Services (AWS), and Google Cloud Platform (GCP)
+* AI, Machine Learning, and Natural Language Processing (NLP)
 
 ## Current Certifications:
 
@@ -107,9 +107,10 @@ Please feel free to contact me. <br>
 
 ## Undergraduate Coursework:
 
-* Software Development Tools and Techniques, Advanced Data Structures, Advanced Programming with C/C++, Object-Oriented Programming in C++, Program Design & Data Structures, Design and Analysis of Algorithms, Software Engineering, Operating Systems, Theory of Computation, Networked Services, Working with Large Codebases
+* Coursework: Advanced Data Structures, Design & Analysis of Algorithms, Software Engineering, Operating Systems, Networked Services, Working with Large Codebases, Linear Programming, Applied Linear Algebra
 
 ## Projects:
-* Full stack IOS app to identify and log wildlife sightings around campus. --(WIP)--
-* AI powered car that can successfully navigate traffic after sufficient training.
+* Full-stack web app to upload and stream videos --(WIP)-- 
+* Full-stack IOS app to identify and log wildlife sightings around campus. --(WIP)--
+* AI-powered car that can successfully navigate traffic after sufficient training.
 * Deep Learning program to analyze crash reports and model potential failure patterns.
