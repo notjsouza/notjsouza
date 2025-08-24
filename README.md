@@ -97,8 +97,10 @@ Please feel free to contact me. <br>
 
 ## I have experience in:
 
-* Frontend using React.js, Next.js, and Vue.js
-* Backend with Java, Node.js, Go, Amazon Web Services (AWS), and Google Cloud Platform (GCP)
+* Frontend using JavaScript/TypeScript, React.js, and Swift
+* Backend with Java, Python, Node.js, Go (Golang)
+* Databases with MongoDB, SQLite, and MySQL
+* Cloud Services with Amazon Web Services (AWS) and Google Cloud Platform (GCP)
 * AI, Machine Learning, and Natural Language Processing (NLP)
 
 ## Current Certifications:
