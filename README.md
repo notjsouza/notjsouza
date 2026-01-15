@@ -14,7 +14,7 @@ I'm Justin, a UC San Diego alumnus with a B.S. in Mathematics-Computer Science.
 <br> 
 
 <!-- Currently I am an [Role Title] in [Company] for [Details about role].--> 
-Currently, I am a Software Engineer at Projectmaven, working with TypeScript, Python, Node.js, Next.js, Google Cloud Platform, and Docker.
+Currently, I am a Software Engineer at Projectmaven, working with TypeScript, Node.js, Next.js, Google Cloud Platform, and Docker.
 
 In the past, I've worked as: <be>
 - a Systems Engineer Intern within the U.S. Department of Defense
@@ -98,7 +98,7 @@ Please feel free to contact me. <br>
 
 * Frontend using JavaScript/TypeScript, React.js, and Swift
 * Backend with Java, Python, Node.js, Go (Golang)
-* Databases with MongoDB, SQLite, and MySQL
+* Databases with MongoDB, SQLite, and PostgreSQL
 * Cloud Services with Amazon Web Services (AWS) and Google Cloud Platform (GCP)
 * AI, Machine Learning, and Natural Language Processing (NLP)
 
@@ -112,6 +112,6 @@ Please feel free to contact me. <br>
 
 ## Projects:
 * Full-stack web app to upload and stream videos --(WIP)-- 
-* Full-stack IOS app to identify and log wildlife sightings around campus. --(WIP)--
+* Full-stack iOS app to identify and log wildlife sightings around campus. --(WIP)--
 * AI-powered car that can successfully navigate traffic after sufficient training.
 * Deep Learning program to analyze crash reports and model potential failure patterns.
