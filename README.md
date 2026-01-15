@@ -31,8 +31,7 @@ In the past, I've worked as: <be>
 
 Please feel free to contact me. <br>
 - **Email:** (Preferred)
-  - My personal email is 'notjsouza@gmail.com`.
-  - My academic email is 'j1souza@ucsd.edu'.
+  - My email is 'j1souza@ucsd.edu'.
 - **LinkedIn:** Click [here](http://linkedin.com/in/notjustinsouza/) to connect and message me)
 
 ---
