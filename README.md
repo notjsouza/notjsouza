@@ -93,6 +93,7 @@ Please feel free to contact me. <br>
 
 * Frontend using JavaScript/TypeScript, React.js, and Swift
 * Backend with Java, Python, Node.js, Go (Golang)
+* APIs with both REST and GraphQL
 * Databases with MongoDB, SQLite, and PostgreSQL
 * Cloud Services with Amazon Web Services (AWS) and Google Cloud Platform (GCP)
 * AI, Machine Learning, and Natural Language Processing (NLP)
