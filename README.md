@@ -12,7 +12,7 @@ I'm Justin, a UC San Diego alumnus with a B.S. in Mathematics-Computer Science.
 <summary>📝 Experience</summary>
 <br> 
 
-<!-- Currently I am an [Role Title] in [Company] for [Details about role].--> 
+<!-- Currently I am a [Role Title] in [Company] for [Details about role].--> 
 Currently, I am a Software Engineer at Projectmaven, working with TypeScript, Node.js, Next.js, Google Cloud Platform, and Docker.
 
 In the past, I've worked as: <be>
@@ -52,8 +52,6 @@ Please feel free to contact me. <br>
 <p align="center">
 <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"/>
 <img alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
-<img alt="C++" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-<img alt="C#" src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white" />
 <img alt="Swift" src="https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white" />
 <img alt="Go" src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" />
 <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
@@ -71,12 +69,10 @@ Please feel free to contact me. <br>
 <img alt="Docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
 <img alt="Kubernetes" src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" />
 <img alt="Terraform" src="https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white" />
-<img alt="Nginx" src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white" />
 
 <img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
 <img alt="GitHub" src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
 <img alt="Visual Studio Code" src="https://img.shields.io/badge/VisualStudioCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-<img alt="PyCharm" src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green" />
 </p>
 
 <tr>
@@ -110,7 +106,6 @@ Please feel free to contact me. <br>
 * Coursework: Advanced Data Structures, Design & Analysis of Algorithms, Software Engineering, Operating Systems, Networked Services, Working with Large Codebases, Linear Programming, Applied Linear Algebra
 
 ## Projects:
-* Full-stack web app to upload and stream videos --(WIP)-- 
+* Full-stack web app to upload and stream videos.
 * Full-stack iOS app to identify and log wildlife sightings around campus. --(WIP)--
 * AI-powered car that can successfully navigate traffic after sufficient training.
-* Deep Learning program to analyze crash reports and model potential failure patterns.
