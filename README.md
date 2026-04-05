@@ -1,5 +1,5 @@
 # 👋 Hey! 
-I'm Justin, a UC San Diego alumnus with a B.S. in Mathematics-Computer Science.
+I'm Justin, a Software Engineer and incoming MS Computer Science student at Georgia Institute of Technology.
 
 <p align="left">
 <a href="mailto:j1souza@ucsd.edu"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
@@ -86,6 +86,7 @@ Please feel free to contact me. <br>
  
 ## Places I've Studied:
 
+* Georgia Institute of Technology
 * University of California, San Diego
 * Diablo Valley College
 
@@ -101,6 +102,7 @@ Please feel free to contact me. <br>
 ## Current Certifications:
 
 * AWS Certified Cloud Practitioner
+* Salesforce Agentblazer Champion 2026
 
 ## Undergraduate Coursework:
 
@@ -108,5 +110,6 @@ Please feel free to contact me. <br>
 
 ## Projects:
 * Full-stack web app to upload and stream videos.
+* Full-stack web app to manage finances, with an AI-powered financial analyst to offer personalized budgeting suggestions.
 * Full-stack iOS app to identify and log wildlife sightings around campus. --(WIP)--
-* AI-powered car that can successfully navigate traffic after sufficient training.
+* A simulation of an AI-powered car that can successfully navigate traffic after sufficient training.
