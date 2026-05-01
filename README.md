@@ -2,11 +2,11 @@
 I'm Justin, a Software Engineer and incoming MS Computer Science student at Georgia Institute of Technology.
 
 <p align="left">
-<a href="mailto:j1souza@ucsd.edu"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="mailto:notjsouza@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/notjustinsouza/"><img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
 
-* 📫 How to reach me: j1souza@ucsd.edu
+* 📫 How to reach me: notjsouza@gmail.com
 
 <details>
 <summary>📝 Experience</summary>
@@ -30,7 +30,7 @@ In the past, I've worked as: <be>
 
 Please feel free to contact me. <br>
 - **Email:** (Preferred)
-  - My email is 'j1souza@ucsd.edu'.
+  - My email is 'notjsouza@gmail.com'.
 - **LinkedIn:** (Click [here](http://linkedin.com/in/notjustinsouza/) to connect and message me)
 
 ---
